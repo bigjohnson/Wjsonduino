@@ -287,36 +287,36 @@ boolean index_handler(MyTinyWebServer& web_server) {
 \n\
 			function cambiacolore(colore) {\n\
 				IO2.style.backgroundColor=colore;\n\
-                                IO2.firstChild.data=\"XX\"\n\
+                                IO2.firstChild.data=\"XX\";\n\
 				IO3.style.backgroundColor=colore;\n\
-                                IO3.firstChild.data=\"XX\"\n\
+                                IO3.firstChild.data=\"XX\";\n\
 				IO5.style.backgroundColor=colore;\n\
-                                IO5.firstChild.data=\"XX\"\n\
+                                IO5.firstChild.data=\"XX\";\n\
 				IO6.style.backgroundColor=colore;\n\
-                                IO6.firstChild.data=\"XX\"\n\
+                                IO6.firstChild.data=\"XX\";\n\
 				IO7.style.backgroundColor=colore;\n\
-                                IO7.firstChild.data=\"XX\"\n\
+                                IO7.firstChild.data=\"XX\";\n\
 				IO8.style.backgroundColor=colore;\n\
-                                IO8.firstChild.data=\"XX\"\n\
+                                IO8.firstChild.data=\"XX\";\n\
 				IO9.style.backgroundColor=colore;\n\
-                                IO9.firstChild.data=\"XX\"\n\
+                                IO9.firstChild.data=\"XX\";\n\
 				AD0.style.backgroundColor=colore;\n\
-                                AD0.firstChild.data=\"XX\"\n\
+                                AD0.firstChild.data=\"XX\";\n\
                                 PAD0.value=0;\n\
 				AD1.style.backgroundColor=colore;\n\
-                                AD1.firstChild.data=\"XX\"\n\
+                                AD1.firstChild.data=\"XX\";\n\
                                 PAD1.value=0;\n\
 				AD2.style.backgroundColor=colore;\n\
-                                AD2.firstChild.data=\"XX\"\n\
+                                AD2.firstChild.data=\"XX\";\n\
                                 PAD2.value=0;\n\
 				AD3.style.backgroundColor=colore;\n\
-                                AD3.firstChild.data=\"XX\"\n\
+                                AD3.firstChild.data=\"XX\";\n\
                                 PAD3.value=0;\n\
 				AD4.style.backgroundColor=colore;\n\
-                                AD4.firstChild.data=\"XX\"\n\
+                                AD4.firstChild.data=\"XX\";\n\
                                 PAD4.value=0;\n\
 				AD5.style.backgroundColor=colore;\n\
-                                AD5.firstChild.data=\"XX\"\n\
+                                AD5.firstChild.data=\"XX\";\n\
                                 PAD5.value=0;\n\
 \n\
 			}\n\
